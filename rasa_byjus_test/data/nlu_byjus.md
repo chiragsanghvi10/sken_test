@@ -1,0 +1,427 @@
+## intent:opening
+- hi
+- hello
+- good morning
+- good afternoon
+- good evening
+- good night
+- how are you
+- how r u
+- how r you
+- how r yu
+- hru
+- howdy?
+- whatsup
+- what’s up
+- what’s happening
+- I am fine
+- I am good
+- hey there!
+- I am doing good
+- for asking
+- may i speak with
+- how are you doing
+- I am doing well and yourself
+- Hello ma’am
+- hello sir
+- hi sir
+- hi ma’am
+- morning
+- how is it going
+- how are things going
+- sup
+- ssup
+- good day
+- how is the
+- hi good morning
+- hello good morning
+- good morning how are you?
+- hello how are you?
+- I am calling from
+- is this
+- am i speaking to
+- is this the right time to talk to you
+- so i called you up for
+- Hi, am I talking to
+- Hi, am I talking with
+- can I speak to
+- can I speak with
+- Hi I am calling, may I speak with ?
+- Yes this is , what is it about ?
+- Hello. am i talking to
+- Yeah, this is what is this regarding ?
+
+## intent:Key Value Proposition
+- Byjus learning program provides a holistic learning experience.
+- Lifelong term retention
+- competitive exams
+- score better
+- conceptual clarity
+- Indias most loved learning app
+- holistic learning experience.
+- personalised learning programs
+- retention of content
+- students
+- Best Teachers
+- progress report
+- improve
+- Conceptual learning
+- glassdoor ranks data scientists as first in 25 best jobs for 2019
+- demand for data scientists will rise by 28 per cent by 2020
+- job assist program will offer extended support for the certified learners
+- joint partnership with IBM
+- this will help you master concepts of data science and big data
+- we have over 15 plus real life industry based projects on different domains
+- our program gives in depth understanding of data structure and data manipulation
+- 30 plus in demand skills and tools
+- placement assistance
+- Byju's is world's largest ed-tech company
+- Byju's is world's biggest ed-tech company
+- biggest ed-tech company
+- Byju's is world's
+- largest ed-tech company
+
+## intent:Aspiration Setting
+- Do you want to increase percentage by 10%?
+- how will you feel if your son's percentage is increased by 10%?
+- how will you feel if your daughters percentage is increased by 10%?
+- How would you like it if your child can crack JEE/NEET in the first try?
+- How would it be if your child topped or did well in the board exams?
+- do you want your child to clear JEE exam in the very first attempt?
+- do you want Rahul to clear NEET exam in the first attempt?
+
+## intent:branding
+- eazylearn
+- kotak mahindra bank
+- gomechanic
+- EC council
+- EC
+- kotak
+- kotak Mahindra
+- deep learning
+- coursera
+- byjus
+- byjus learning app
+- byju's
+
+## intent:acknowledge
+- hmmm
+- ok
+- got it
+- understood
+- k
+- definetly
+- surely I will help you with this
+- surely I will assist you with this
+- yes
+- yeah
+- ya
+- yes sure
+- sure
+- yeah sure
+- Yeah, yeah, please go ahead..
+- yes please tell me
+- cool
+- Sure, definitley
+- alright sir
+- alright ma'am
+- ok sir
+- ok ma'am
+- yes, this is
+- yes, I did
+- for sharing the information
+- Sounds good...
+- ya it is
+- ya i did
+- Sounds good
+- hmmmm
+- Sounds great
+- Yes, go ahead, this is
+- Yes, tell me, this is
+- Ok that is great
+- That's great. I would love to do that
+- Yes, I had called for the same
+- okay fine
+- ok fine
+
+## intent:call end
+- bye
+- have a nice day
+- thank you for calling
+- when can I call you back
+- thank you sir, you too
+- thanks for calling
+- nice talking to you
+- see you
+- ttyl
+- talk to you later
+- thank you for showing interest
+- so that we can reshedule it
+- Thank you for your valuable time and it was great speaking with you. Have a good day.
+- Thank you for the information, you too have a good day.
+- Please get back to me in case of any queries
+- please feel free to contact me in case of any queries
+- thank you for choosing
+
+## intent:email
+- what is your email address
+- can you tell me your email id
+- email address
+- email id
+- can you spell your email id
+- @ .com
+- can you email me
+- @gmail.com
+- please email me
+- please share me your email id
+- please give me your mail id
+- will mail you
+- you will get the mail
+
+## intent:pricing
+- cost
+- price
+- bill
+- how much is it for?
+- price
+- EMI
+- how much do you charge
+- how much is the charges
+- so expensive
+- costly
+- it is very costly
+- it is very expensive
+- oh my god, so expensive
+- i have only
+- this is my budget
+- only this i can afford
+- student discount
+- eligible for two discounts.
+- given total
+- can you reduce
+- reduce
+- I will give a discount
+- we are running a special offer
+- special offer
+- you are eligible for
+- annual subscription
+- subscription
+- we have some best offers for you
+- we have some amazing offers, would you be interested
+- do you want me to share some combos
+- so what is the price of that
+- so what is the price
+- what is the price
+- what is the amount
+- amount to be paid
+- installments
+- the cost of the
+- the price of the
+- you will be charged
+- the charges are
+- monthly you will have to pay
+- payment
+- rs
+- rupees
+- dollar
+- $
+- ₹
+- thousand
+- lakh
+- hundred
+- so that is beyond our budget
+- so that is beyond our expenses
+- so that is beyond our price
+- too costly
+- what is the price of that
+- but I can definitely give you a student discount
+- We can give you discounts based on the
+- as this price is negotiable
+- would cost you around thousand
+- so what would the price be?
+- you would have invested lakhs
+- lakhs
+- payment links
+- make payment
+
+## intent:roi discussion
+- hike
+- entry to this field
+- planned
+- investment
+- features
+
+## intent:appointment setting
+- visit
+- advance
+- booking
+- i will check
+- details
+- i would like to
+- assist you with
+- can i set up a meeting
+- meeting
+- we can take it further
+- will mail you
+- will contact you
+- they will guide you through the process
+- they will guide you
+- take it forward
+- you will get the mail
+- can i set up a call with
+- purchase
+- i would need the
+- can I set up a call with manager
+- can I set up a call with counsellor
+- we have your
+- I am sending rightway.
+- send it right away
+- I am going to send the information across to you right away and will call you tomorrow morning for the subscription.
+- So can I schedule it for tomorrow? in the afternoon?
+- so when can I schedule it for tomorrow? in the afternoon?
+- So can I schedule it for
+
+## intent:next steps
+- can arrange call
+- we can arrange meeting
+- demo
+- i will join
+- i ll join
+- other requirment
+- documents
+- anything else you need help with?
+- I am sending rightway
+- how can I get started with it
+- We have your
+- i will talk to my team
+- i will discuss with my team
+- i will discuss with my team members
+- when can we schedule the demo
+
+## intent:lead identification
+- share your exact
+- I am student graduating
+- I am student
+- working
+- i am working
+- i am searching for a job
+- shortlisted for
+- can you please share your exact requirement
+- exact requirement
+- requirement
+- I am looking for
+- I am looking in
+- how do you see
+- how do you prefer
+- any general
+- are you a student or working professional?
+- where are you working?
+- working where?
+- you had enquired on our website
+- you had enquired on our portal
+- you visited our website
+- you had asked about
+- visited our website
+- you had enquired on our website portal about
+- visited our online portal
+- enquired on online portal
+- ok, what is the
+- i am using
+- what is the?
+- I need to know a few other things
+- So, I need to know a few things about yourself before we get started
+- I work in
+- and my CTC
+- I work in and my CTC is lakhs per annum.
+- you are looking for a
+- are you are looking for a
+- I just have to ask a few questions related to
+- so I called you up for your recent enquiry
+- Yes, sure. So I am student graduating next semester. I am interested
+- I am looking for a
+
+## intent:objection handling - need
+- I had some other expenses
+- other expenses
+- expenses
+- had a lot of
+- I have a good track record
+- track record
+- interest payment
+- EMI option
+- EMI payment
+- repayment
+- how will it work
+- how ll it work
+- in the long run
+- So, do you want to enrol for this course now ?
+- enrol for this
+
+## intent:phone call
+- please share me your phone number
+- can you
+- will contact you
+- contact number
+- what is your mobile number
+- can you call me back
+- can I give you a call back
+- my number is
+- you can call me on
+- please call me
+- can you call me
+
+## intent:need investigation
+- i can help you out
+- I am interested to
+- May I know how many
+- specific
+- I will explain different plans
+- I will explain you the
+- i will tell you about the packages
+- i will explain in detail
+- what is the
+- we have various plans
+- We have various plans which can be customized based on your needs
+- we have many packages
+- we have many options
+- we can customize
+- we can customize based on your needs
+- we can customize based on your requirements
+- I am paying around
+- how long do you
+- how long have you
+
+## intent:notInterested
+- I am not interested
+- I am busy call me later
+- no, i am not interested in this offer
+- i am not interested in this product
+- not interested
+- not interested in this item
+- not interested in this product
+- let me get back to
+
+## intent:competitors
+- I am also exploring other
+- exploring
+- Other platforms are good
+- platforms
+- this time I am also exploring other
+
+## intent:feature explanation
+- I will explain different plans
+- you can choose
+- provides you with
+- it is just a
+- for sharing your information and let me help you out with the right
+
+## intent:constraints
+- we do not have
+- we do not provide
+- its such a waste
+- i will get back to you
+- No but still
+
+## intent:decision making process
+- That's great, I am sure you have taken a right decision and you will definitely get a benefit.
+- Can you please send me a quotation after both the discounts to my email id. I will go over it tonight. Please call me tomorrow I will enrol

@@ -1,0 +1,5 @@
+rasa
+pandas
+json
+flask
+openpyxl

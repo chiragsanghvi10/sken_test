@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/chirag/Desktop/byjus_test_intro/rasa_byjus_test/models/current/component_6_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/home/chirag/Desktop/byjus_test_intro/rasa_byjus_test/models/current/component_6_EmbeddingIntentClassifier.ckpt"
