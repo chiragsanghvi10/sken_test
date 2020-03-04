@@ -3,10 +3,10 @@ test for multi-label-text
 
 ### In terminal
 
-git clone https://github.com/chiragsanghvi10/sken_test.git            																										
-cd sken_test																																																						
-pip3 -r requirements.txt																																																	
-python test_byjus.py																																																			
+git clone https://github.com/chiragsanghvi10/sken_test.git
+cd sken_test
+pip3 -r requirements.txt
+python test_byjus.py
 
 ### In postman
 
