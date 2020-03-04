@@ -3,3 +3,4 @@ pandas
 json
 flask
 openpyxl
+xlrd
