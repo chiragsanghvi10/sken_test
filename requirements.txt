@@ -1,6 +1,5 @@
 rasa
 pandas
-json
 flask
 openpyxl
 xlrd
